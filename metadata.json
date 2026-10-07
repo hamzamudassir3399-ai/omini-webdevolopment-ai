@@ -1,0 +1,7 @@
+{
+  "name": "OmniWebDev AI — Global Free AI Web Development Hub",
+  "description": "The ultimate platform powered by world-class free AI web development models, featuring Gemini 3.1 Pro with High Thinking mode, real-time code generation, interactive sandbox, and global AI model benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
